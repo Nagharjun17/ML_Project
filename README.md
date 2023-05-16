@@ -1,4 +1,11 @@
 # ML_Project
+![1459032057_97e73ed6ab](https://github.com/Nagharjun17/ML_Project/assets/64778259/edb74afc-f907-450a-94b2-ce3376afb8f3)
+![1449370354_380c4123c9](https://github.com/Nagharjun17/ML_Project/assets/64778259/cd4a0490-d5af-460e-bbc9-1cdf948c83d6)
+![1434005938_ad75c8598c](https://github.com/Nagharjun17/ML_Project/assets/64778259/360e0e13-902d-4a7f-9837-f92a017e2966)
+![1429546659_44cb09cbe2](https://github.com/Nagharjun17/ML_Project/assets/64778259/faee9825-aca2-4b83-8b19-5ddcc919bf80)
+![1425069590_570cc7c2d8](https://github.com/Nagharjun17/ML_Project/assets/64778259/706c727d-8af2-4eec-ba4b-7f0138a08913)
+![1417941060_2a0f7908bc](https://github.com/Nagharjun17/ML_Project/assets/64778259/17285c57-0072-4e67-bb8c-d4923e0767b6)
+
 
 ![1389323170_d1c81d6b51](https://github.com/Nagharjun17/ML_Project/assets/64778259/c9843ad5-3eaa-4598-a021-9de64f3e9b2f)
 ![1151466868_3bc4d9580b](https://github.com/Nagharjun17/ML_Project/assets/64778259/e1de12b3-fa49-47dc-bf53-c783e81c0664)
