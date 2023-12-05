@@ -5,6 +5,7 @@
 ![1429546659_44cb09cbe2](https://github.com/Nagharjun17/ML_Project/assets/64778259/faee9825-aca2-4b83-8b19-5ddcc919bf80)
 ![1425069590_570cc7c2d8](https://github.com/Nagharjun17/ML_Project/assets/64778259/706c727d-8af2-4eec-ba4b-7f0138a08913)
 ![1417941060_2a0f7908bc](https://github.com/Nagharjun17/ML_Project/assets/64778259/17285c57-0072-4e67-bb8c-d4923e0767b6)
+![modelcomp](https://github.com/Nagharjun17/ML_Project/assets/64778259/d0c0d9a5-59ac-4021-8c84-e16937983b17)
 
 
 ![1389323170_d1c81d6b51](https://github.com/Nagharjun17/ML_Project/assets/64778259/c9843ad5-3eaa-4598-a021-9de64f3e9b2f)
